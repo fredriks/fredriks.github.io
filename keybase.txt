@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/fsimon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.fsimon.net
+  * I am fsimon (https://keybase.io/fsimon) on keybase.
+  * I have a public key with fingerprint D4FC 1271 DFB6 28A5 1FA7  13ED 4174 5BF2 F5FA 6A2F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101eeb1feb8e570e60edca29a97d9194f3113b7ef7234a765bd96602cc9b552a1d70a",
+            "fingerprint": "d4fc1271dfb628a51fa713ed41745bf2f5fa6a2f",
+            "host": "keybase.io",
+            "key_id": "41745bf2f5fa6a2f",
+            "kid": "0101eeb1feb8e570e60edca29a97d9194f3113b7ef7234a765bd96602cc9b552a1d70a",
+            "uid": "a9feed40168afa5eb5b8bc8d6c3abf19",
+            "username": "fsimon"
+        },
+        "service": {
+            "hostname": "www.fsimon.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1469922996,
+    "expire_in": 157680000,
+    "prev": "40e316020b16f650afd5b22a07f3bcc0f1746d9f65a4a41c4b777b22b1394c56",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSBRRGN5dtVSwIoTIC8nUQ8G6zpnLmZ1NFxO6EpFSZGEu58yco8Pm
+zDY76yW7CGUURUVENwyKyh56sHARuniptgeTyEIjEkysh+hJejDJjM5YvfXYeTmc
+//++7//+j5PKSfNke4cqL1Zj9LnEO/TkUsKz61o42cphS2/hQq1clMxfZJ9O4k4k
+auhciOMBDwjBgBIcJLLCE8gTXUOCilRFV4EqUREAESuEKoIoIQXKWFch5AVNU7Es
+CwjoCo84P0cNs47YMdswHSarS1QDggJ0iqEQRDKgSAEi0SWgSDKmApUpgkigjFhv
+xV0GM4dRnAQMi9XYIzJv7x/4/+w7MS+HVEqYOx7AIKJIJljGQawFdaiJCFOgusA4
+sU3UQBiaxo0Gy+QO+TlWazQ04sbq7vGn39TUFPiNCZjEYdyYbTmWZu1jvXrHiYVc
+qtMSm8cSHPmjEsGGqbMYGaGR2HGDjQgBhtQcw5UFElRVQVBV6OdIc8ywScRwEbIC
+gzw77hjS6IbGExGwVXkMIIUyj6guY0FAvEJFrGk8ZaFCXWUtJCEJaBJWFIUBMBBV
+SZMh5+6137SYNhvloDqmGTfqTOQkbMIdejpQk+7xZnsWZPjc/+XJzlry99eVV2V6
+UgunJ052JO8aYefe4Cmg3hcP+t6OrAjMndi89Mey/mhFQPUn7VhF98zVC9e12ZkN
+a7aU9bStSW/rULaOjoWTtdFLu8dSm9uLij7IX3oLBssN+13/q1XS4el8XyR96k7b
+8b6pnQPr3qyQSnMfWsvTVk405xXPjedu6si60ulP1obWFvw4d76mUy7cPvHo23vv
+8OiDk7o4WVVSvPfmFs9lz/T3fPFF12zRp9c3j+3Icc6W+i6+NG/XVnM9XX2nYOOZ
+2MbePYuHHzf/jPdm5jWUyeNzdDJxCy5af8M+ki+OHCh83r162+qP5UWlM5/4Zyvx
+zGk7L6Oy3Zf6enQsXLBd+QXyzTxF
+=1g+k
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fsimon
+
+==================================================================
